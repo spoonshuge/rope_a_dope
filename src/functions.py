@@ -1,2 +1,0 @@
-def pname();
-    print('spoonshuge')
