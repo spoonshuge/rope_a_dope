@@ -1,3 +1,3 @@
 # rope_a_dope
-yeah
-.
+# Python3 only
+# ...
